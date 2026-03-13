@@ -1,1 +1,1 @@
-将iPhone拍照得到的.HEIC格式的照片转换为png和jpg格式
+Convert .HEIC format photos taken with an iPhone to PNG and JPG formats.
